@@ -1,0 +1,1 @@
+QASystem is a powerful question-answering system built using LlamaIndex and Google Gemini. It allows you to load custom documents (PDFs, TXT, etc.), index them using embeddings, and ask natural language questions to get smart answers.
